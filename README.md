@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Just Three Commands for this repo
 
-#### sudo cd /todo
-#### npm install
-#### npm start
+#### $ cd /todo
+#### $ npm install
+#### $ npm start
 
 ## Available Scripts
 
