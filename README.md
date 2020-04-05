@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Just Two Command for this repo
+## Just Three Commands for this repo
 
-## sudo cd /todo
-## npm install
-## npm start
+#### sudo cd /todo
+#### npm install
+#### npm start
 
 ## Available Scripts
 
